@@ -1,6 +1,8 @@
 # hello-world
 Coding Journal
 
+
+
 Hello, Skyler here. 
 
 My fantastic journey through coding starts now. This is how I plan to begin: 
