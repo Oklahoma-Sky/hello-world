@@ -5,7 +5,7 @@ Coding Journal
 
 Hello, Skyler here. 
 
-My fantastic journey through coding starts now. This is how I plan to begin: 
+My coding journey starts now. This is how I plan to begin: 
 
     * Web development
     * Advanced web development
